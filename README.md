@@ -2,7 +2,7 @@
 <h1 align="center">Indie Data Analyst proficient in SQL, Python, Excel and dashboard </h1>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/coder.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tzjZhengJie&label=Profile%20views&color=0e75b6&style=flat" alt="tzjZhengJie" /> </p>
+<p align="left"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400" alt="tzjZhengJie" /> </p>
 
 - Diving into **Machine Learning module: Deep Learning, Neural networks: CNN, RNN, and NLP**
 
