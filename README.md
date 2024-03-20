@@ -2,6 +2,8 @@
 <h1 align="center">Indie Data Analyst proficient in SQL, Python, Excel and dashboard </h1>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/skstef/skstef/main/assets/coder.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tzjZhengJie&label=Profile%20views&color=0e75b6&style=flat" alt="tzjZhengJie" /> </p>
+
 - Diving into **Machine Learning module: Deep Learning, Neural networks: CNN, RNN, and NLP**
 
 - Learning how to develop an informative dashboard via Power BI and Tableau
