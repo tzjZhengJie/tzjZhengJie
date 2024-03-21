@@ -4,7 +4,7 @@
 <img align="right" alt="cool stats on laptop" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tzjZhengJie&label=Profile%20views&color=0e75b6&style=flat" alt="yannkjy" /> </p>
 
-- Diving into **Machine Learning module: Deep Learning, Neural networks: CNN, RNN, and NLP**
+- Diving into **Machine Learning module: Deep Learning, NLP, Neural networks: CNN and RNN**
 
 - Learning how to develop an informative dashboard via Power BI and Tableau
 
