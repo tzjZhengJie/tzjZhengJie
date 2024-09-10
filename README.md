@@ -4,7 +4,9 @@
 <img align="right" alt="cool stats on laptop" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
 
 
-- Diving into **Machine Learning module: Deep Learning, NLP, Neural networks: CNN and RNN**
+- Dove into **Machine Learning module: Deep Learning, NLP, Neural networks: CNN and RNN**
+
+- Proficient in Python and SQL
 
 - Learning how to develop an informative dashboard via Power BI and Tableau
 
