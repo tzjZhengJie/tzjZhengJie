@@ -13,7 +13,7 @@
 
 - Learning how to develop an informative dashboard via Power BI and Tableau
 
-- Visit my website at [here](chriszj.com)
+- Visit my website at ([here](https://chriszj.com/))
 
 - All of my projects are available at [here](https://github.com/tzjZhengJie/DataAnalyst_Project)
 
