@@ -1,5 +1,5 @@
 **`Data Analyst`**
-<h1 align="center">Indie Data Analyst proficient in SQL, Python, Excel and dashboard </h1>
+<h1 align="center">Binance Data Analyst </h1>
 <h4 align="center">As a Data Analyst, I aim to analyse raw data, develop test cases, and uncover insights to enhance business performance. </h4>
 <img align="right" alt="cool stats on laptop" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
 
