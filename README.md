@@ -7,7 +7,7 @@
 
 - Proficient in Python and SQL
 
-- Learning how to develop an informative dashboard via Power BI and Tableau
+- Proficient in BI Tools, translating raw data into business insights through visualisation
 
 - Visit my website at [here](https://chriszj.com/)
 
