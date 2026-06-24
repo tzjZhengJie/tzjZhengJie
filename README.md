@@ -19,9 +19,9 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🤖 [Multi-Agent Text-to-SQL](https://github.com/tzjZhengJie/DataAnalyst_Project) | Translates business questions into production-ready SQL using RAG-based schema retrieval and query validation | Python, LLM, RAG |
-| 💳 Credit Risk Analytics | SQL framework across 28K+ loans — surfaced a 4.66x default cliff at 30% DTI and $10.5M expected-loss risk zone | SQL, Python |
-| 🔗 On-Chain Risk Scoring | Classifies Solana tokens into risk tiers by ingesting contract data via Arkham API | Python, Spark SQL |
+| 🤖 [Multi-Agent Text-to-SQL](https://github.com/tzjZhengJie/agentic-system-analyst) | Translates business questions into production-ready SQL using RAG-based schema retrieval and query validation | Python, LLM, RAG |
+| 💳 [Credit Risk Analytics](https://github.com/tzjZhengJie/Credit_Risk_Analysis) | SQL framework across 28K+ loans — surfaced a 4.66x default cliff at 30% DTI and $10.5M expected-loss risk zone | SQL, Python |
+| 🔗 [On-Chain Risk Scoring](https://github.com/tzjZhengJie/arkham_assessment) | Classifies Solana tokens into risk tiers by ingesting contract data via Arkham API | Python, Spark SQL |
 | 📰 AI News Pipeline | End-to-end automation that summarises news to Telegram, eliminating manual monitoring | Make.com, GPT API |
 
 ---
