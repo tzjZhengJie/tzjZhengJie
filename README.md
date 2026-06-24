@@ -1,25 +1,70 @@
-**`Data Analyst`**
-<h1 align="center">Data Analyst | Ex-Binance </h1>
-<h4 align="center">As a Data Analyst, I aim to analyse raw data, develop test cases, and uncover insights to enhance business performance. </h4>
-<img align="right" alt="cool stats on laptop" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
+# Hi, I'm Zheng Jie 👋
 
-- Dived into **Machine Learning module: Deep Learning, NLP, Neural networks: CNN and RNN**
+**Data Analyst** with hands-on experience at Binance, working across product analytics, payment operations, and petabyte-scale data pipelines. I turn messy data into decisions.
 
-- Proficient in Python and SQL
+📍 Singapore &nbsp;|&nbsp; 📬 zhengjietan20@gmail.com &nbsp;|&nbsp; 🌐 [chriszj.com](https://chriszj.com)
 
-- Proficient in BI Tools, translating raw data into business insights through visualisation
+---
 
-- Visit my website at [here](https://chriszj.com/)
+## What I Do
 
-- All of my projects are available at [here](https://github.com/tzjZhengJie/DataAnalyst_Project)
+- **Product & User Analytics** — A/B testing, funnel analysis, retention, and engagement metrics across millions of users
+- **Data Engineering** — ETL/ELT pipelines with Airflow, Hive, and Spark SQL on large-scale financial data
+- **AI & Automation** — LLM-based workflows, RAG pipelines, and low-code automation with Make.com
+- **Statistical Analysis** — Experimental design, hypothesis testing, and business intelligence
 
-- 📫 How to reach me **zhengjietan20@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tan-zheng-jie/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="tzjZhengJie" width="100" /></a>
-</p>
+## Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+| Project | What it does | Stack |
+|---|---|---|
+| 🤖 [Multi-Agent Text-to-SQL](https://github.com/tzjZhengJie/DataAnalyst_Project) | Translates business questions into production-ready SQL using RAG-based schema retrieval and query validation | Python, LLM, RAG |
+| 💳 Credit Risk Analytics | SQL framework across 28K+ loans — surfaced a 4.66x default cliff at 30% DTI and $10.5M expected-loss risk zone | SQL, Python |
+| 🔗 On-Chain Risk Scoring | Classifies Solana tokens into risk tiers by ingesting contract data via Arkham API | Python, Spark SQL |
+| 📰 AI News Pipeline | End-to-end automation that summarises news to Telegram, eliminating manual monitoring | Make.com, GPT API |
 
+---
+
+## Tech Stack
+
+**Languages & Analytics**
+`Python` `SQL (PostgreSQL, MySQL, Spark SQL)` `Pandas` `NumPy` `Scikit-learn`
+
+**Data Engineering**
+`Apache Airflow` `Apache Hive` `Spark` `ETL/ELT Pipelines`
+
+**BI & Visualisation**
+`Tableau` `Power BI` `Excel`
+
+**AI & Automation**
+`LLMs` `RAG` `Make.com` `REST APIs`
+
+---
+
+## Experience Highlights
+
+**Binance** *(Feb 2025 – Sep 2025)*
+- Analysed new feature launches (AI Chat, Live Streams, Tipping) across **4M+ active users**
+- Identified a **5% DAU decline** from an A/B test on app version rollout, driving timely intervention
+- Refactored SQL pipelines, cutting resource consumption by **50%**
+
+**Binance — Payment Operations** *(Nov 2024 – Feb 2025)*
+- Processed payment data across **$200M+ average daily volume** and **41.7M+ active users**
+- Detected fraudulent C2C transaction patterns, supporting regulatory compliance
+
+---
+
+## Certifications
+
+- Statistics for Data Science and Business Analysis — *Udemy (2025)*
+- Google Advanced Data Analytics Specialisation — *Coursera (2023)*
+- Google Business Intelligence Specialisation — *Coursera (2023)*
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tan-zheng-jie/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tzjZhengJie)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://chriszj.com)
