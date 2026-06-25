@@ -1,8 +1,8 @@
-# Hi, I'm Zheng Jie 👋
+# Hi, I'm Zheng Jie 👋 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=tzjZhengJie.tzjZhengJie)
 
 **Data Analyst** with hands-on experience at Binance, working across product analytics, payment operations, and petabyte-scale data pipelines. I turn messy data into decisions.
 
-📍 Singapore &nbsp;|&nbsp; 📬 zhengjietan20@gmail.com &nbsp;|&nbsp; 🌐 [chriszj.com](https://chriszj.com) | ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=tzjZhengJie.tzjZhengJie)
+📍 Singapore &nbsp;|&nbsp; 📬 zhengjietan20@gmail.com &nbsp;|&nbsp; 🌐 [chriszj.com](https://chriszj.com) |
 
 ---
 
